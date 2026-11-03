@@ -1,0 +1,6 @@
+{
+  "name": "Al Madni Hotel – Authentic Pakistani Restaurant in Gujranwala",
+  "description": "Official website for Al Madni Hotel (Khyali Madni) located in Marian Hotel, Attawa, Gujranwala. Dine-in, takeout, authentic culinary atmosphere, and verified Google reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
